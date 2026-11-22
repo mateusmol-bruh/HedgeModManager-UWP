@@ -71,6 +71,6 @@ dotnet run --project .\src\Tests\Tests.csproj --configuration Release
 
 ## Status and credits
 
-Version 0.1.7.0 adds language selection and changes how LT and RT are handled to prevent the list from jumping a page during reordering. The build and automated checks passed. The updated trigger behavior still needs verification with a physical Xbox controller.
+Version 0.1.7.0 adds language selection and changes how LT and RT are handled to prevent the list from jumping a page during reordering. The build and automated checks passed. The user confirmed that version 0.1.7.0 works as expected on Xbox.
 
 This independent patch builds on HedgeModManager UWP. See the [Hedge Mod Manager desktop project](https://github.com/hedge-dev/HedgeModManager) and [Unleashed Recompiled](https://github.com/hedge-dev/UnleashedRecomp) for upstream projects and support.
