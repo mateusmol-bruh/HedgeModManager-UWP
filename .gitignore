@@ -1,0 +1,7 @@
+**/bin/
+**/obj/
+**/build/
+*.msix
+*.appx
+*.pfx
+*.p12

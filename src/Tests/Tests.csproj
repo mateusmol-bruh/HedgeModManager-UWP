@@ -1,0 +1,1 @@
+<Project Sdk="Microsoft.NET.Sdk"><PropertyGroup><TargetFramework>net6.0</TargetFramework><OutputType>Exe</OutputType><ImplicitUsings>enable</ImplicitUsings></PropertyGroup><ItemGroup><Compile Include="../Core.cs" Link="Core.cs"/><Compile Include="../Locale.cs" Link="Locale.cs"/></ItemGroup></Project>
